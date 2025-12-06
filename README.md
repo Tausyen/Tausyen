@@ -9,7 +9,6 @@ and I’m currently learning:
 - Digital IC design (Verilog / FPGA)  
 - Circuit simulation  
 - Machine learning basics  
-- EEG-related signal processing  
 - Git & GitHub  
 - Multisim small projects  
 
