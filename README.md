@@ -52,7 +52,7 @@ and I’m currently learning:
 - Notebook + plots  
 
 ### 🔹 **4. PhD Prep Notes**
-- Paper reading notes (especially Prof. Wenshan Zhao’s work)
+- Paper reading notes 
 - Concepts (CapsNet, TSSF fusion, wavelet filters, federated learning, etc.)
 - Weekly learning journal  
 
